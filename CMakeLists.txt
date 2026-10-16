@@ -3,4 +3,6 @@ project(lignd)
 
 set(CMAKE_CXX_STANDARD 23)
 
-add_library(lignd STATIC library.cpp)
+add_library(ecs STATIC
+        ecs/entity.cc
+        ecs/entity.h)

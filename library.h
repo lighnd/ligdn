@@ -1,5 +1,0 @@
-
-#ifndef LIGND_LIBRARY_H
-#define LIGND_LIBRARY_H
-
-#endif // LIGND_LIBRARY_H
